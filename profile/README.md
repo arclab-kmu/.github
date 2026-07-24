@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://arc.kookmin.ac.kr"><img src="https://img.shields.io/badge/Lab_Homepage-162841?style=for-the-badge&logo=githubpages&logoColor=white" alt="Lab Homepage"></a>
-<a href="https://sites.google.com/view/htseo"><img src="https://img.shields.io/badge/Prof._Hyung--Tae_Seo-a50001?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Principal Investigator"></a>
+<a href="https://scholar.google.com/citations?user=NphqZNQAAAAJ&hl=ko"><img src="https://img.shields.io/badge/Prof._Hyung--Tae_Seo-a50001?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Principal Investigator"></a>
 <a href="mailto:htseo@kookmin.ac.kr"><img src="https://img.shields.io/badge/htseo@kookmin.ac.kr-162841?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Seoul,_Korea-162841?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 
@@ -52,13 +52,13 @@ We design **novel control theories and high-performance actuation for intelligen
 - **2026.02** — **Four papers** presented at **KRoC 2026** (Pyeongchang) 🎉 &nbsp;·&nbsp; Congratulations to our 2026 graduates (1 M.S. + undergraduate researchers).
 - **2025.11** — 🏆 **Sponsor's Award**, Campus Patent Universiade &nbsp;·&nbsp; 🥉 **3rd place**, Creative Mobility Competition.
 
-<sub>→ See all updates on the [**News**](https://arclab-kmu.github.io/news) page.</sub>
+<sub>→ See all updates on the [**News**](https://arc.kookmin.ac.kr/news) page.</sub>
 
 ---
 
 ## 👥 People
 
-- **Principal Investigator** — [**Prof. Hyung-Tae Seo**](https://sites.google.com/view/htseo), Assistant Professor
+- **Principal Investigator** — [**Prof. Hyung-Tae Seo**](https://scholar.google.com/citations?user=NphqZNQAAAAJ&hl=ko), Assistant Professor
 - **Team** — 1 researcher · 2 graduate students · 10 undergraduate researchers
 
 <sub>→ Meet everyone on the [**People**](https://arc.kookmin.ac.kr/people) page.</sub>
