@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://arclab-kmu.github.io"><img src="https://img.shields.io/badge/Lab_Homepage-162841?style=for-the-badge&logo=githubpages&logoColor=white" alt="Lab Homepage"></a>
+<a href="https://arc.kookmin.ac.kr"><img src="https://img.shields.io/badge/Lab_Homepage-162841?style=for-the-badge&logo=githubpages&logoColor=white" alt="Lab Homepage"></a>
 <a href="https://sites.google.com/view/htseo"><img src="https://img.shields.io/badge/Prof._Hyung--Tae_Seo-a50001?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Principal Investigator"></a>
 <a href="mailto:htseo@kookmin.ac.kr"><img src="https://img.shields.io/badge/htseo@kookmin.ac.kr-162841?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Seoul,_Korea-162841?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
@@ -61,7 +61,7 @@ We design **novel control theories and high-performance actuation for intelligen
 - **Principal Investigator** — [**Prof. Hyung-Tae Seo**](https://sites.google.com/view/htseo), Assistant Professor
 - **Team** — 1 researcher · 2 graduate students · 10 undergraduate researchers
 
-<sub>→ Meet everyone on the [**People**](https://arclab-kmu.github.io/people) page.</sub>
+<sub>→ Meet everyone on the [**People**](https://arc.kookmin.ac.kr/people) page.</sub>
 
 ---
 
@@ -78,7 +78,7 @@ We design **novel control theories and high-performance actuation for intelligen
 | 📍 | Rm 709, Future Hall, 77 Jeongneung-ro, Seongbuk-gu, Seoul 02707, Korea |
 | ✉️ | htseo@kookmin.ac.kr |
 | ☎️ | +82-2-910-4703 |
-| 🌐 | [arclab-kmu.github.io](https://arclab-kmu.github.io) |
+| 🌐 | [arc.kookmin.ac.kr](https://arc.kookmin.ac.kr) |
 
 <div align="center">
 <br>
